@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://rizky12937485.github.io/unveiledscandals5/sitemap_index.xml
